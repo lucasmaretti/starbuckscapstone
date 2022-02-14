@@ -1,9 +1,12 @@
 # starbuckscapstone
 Capstone project for Udacitys Data Scientist Nanodegree
 
+Read the medium article for a more comprehensive view: https://lucasmaretti.medium.com/understanding-customers-preferences-through-data-a-starbucks-marketing-campaign-analysis-9f4d0c056144
+
 # Starbucks promotional data analysis project
 
 Link to Github repository: https://github.com/lucasmaretti/starbuckscapstone/
+
 
 ## Table of Contents
 
