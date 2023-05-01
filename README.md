@@ -1,5 +1,6 @@
 # starbuckscapstone
-Capstone project for Udacitys Data Scientist Nanodegree
+Capstone project for Udacity's Data Scientist Nanodegree
+## <img src="https://images.unsplash.com/photo-1603361513137-219be38712ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80" class="center" width="600"/>
 
 Read the medium article for a more comprehensive view: https://lucasmaretti.medium.com/understanding-customers-preferences-through-data-a-starbucks-marketing-campaign-analysis-9f4d0c056144
 
