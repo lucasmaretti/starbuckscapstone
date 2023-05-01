@@ -18,7 +18,7 @@ Link to Github repository: https://github.com/lucasmaretti/starbuckscapstone/
 5. [Conclusions](#conclusions)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Introductionn<a name="introduction"></a>
+## Introduction<a name="introduction"></a>
 
 Starbucks is an American chain of coffeehouses originated in Seattle and has the accolade of being the worlds' largest in its niche market. The company is, as of November 2021, present in 80 countries with over 30 thousand stores spread across the globe. Being a company so big increases the challenges when developing marketing strategies and acquiring information about its users. In order to tackle these challenges the company released its own app, which is used to place orders, make payments and also send marketing-related promotional offers for the customers. All of this generates data for the company, that can use it to drive business data driven decisions.
 
@@ -32,10 +32,12 @@ Transcript.json -Records of interactions of users with the offers and amount spe
 
 ## Problem statement and metrics <a name="statement"></a>
 
-Problem statement
+*Problem statement*
+
 The main goal of this project was to use this data to determine which demographic groups respond best to which offer type. For that goal to be achieved 2 approaches were used: visualizations through exploratory data analysis and clustering using the k-means algorithm. A possible outcome expected from the analysis would be something like: 'male customers of a certain age range and income tend to complete a certain type of offer more often.'
 
-Metrics
+*Metrics*
+
 For the k-means algorithm the fundamental step is to determine the optimal number of clusters into which the data may be clustered. The Elbow Method is one of the most popular methods to determine this optimal value of k. This approach is more qualitative and it was used combined with the the silhouette scored method, which is quantitative to determine the optimum number of clusters. By combining the 2 approaches, an optimal number of 4 clusters was defined.
 
 ### Data wrangling and Feature engineering <a name="wrangling"></a>
